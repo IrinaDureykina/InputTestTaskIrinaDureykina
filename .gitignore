@@ -1,0 +1,50 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled files
+out/
+
+# Project-specific
+*.iml
+
+# Dependencies
+.idea_modules/
+
+# User-specific
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+
+# Logs and crash reports
+.idea/idea.log
+
+# Editor-based stuff
+.idea/caches/
+.idea/libraries/
+
+# Sensitive or private information
+.idea/dataSources.ids
+.idea/dataSources.xml
+
+# Gradle
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/detekt/
+.idea/caches/
+.idea/modules.xml
+.gradle/
+
+# User-specific configs
+.idea/options/
+.idea/shelf/
+.idea/recentProjects.xml
+.idea/recentTasks.xml
+
+# Misc
+.idea/misc.xml
+.idea/codeStyles/
+.idea/intentions.xml
+
+# Annotation processing
+.idea/annotationProcessors/
